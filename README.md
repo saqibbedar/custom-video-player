@@ -1,6 +1,6 @@
 # Custom Video Player
 
-This project is a custom video player built with HTML, CSS, and JavaScript. It features a sleek and user-friendly interface with controls for play/pause, volume, video progress, playback speed, picture-in-picture, and full-screen view. For more, check out live demo [here](https://github.com/saqibbedar/custom-video-player).
+This project is a custom video player built with HTML, CSS, and JavaScript. It features a sleek and user-friendly interface with controls for play/pause, volume, video progress, playback speed, picture-in-picture, and full-screen view. For more, check out live demo [here](https://saqibbedar.github.io/custom-video-player/).
 
 ## Getting Started
 
